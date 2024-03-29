@@ -1,2 +1,2 @@
 # Word-games
-# Word-games
+Spelling bee and Wordle
